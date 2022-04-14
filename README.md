@@ -1,1 +1,1 @@
-# conffaq
+# Configs FAQ
